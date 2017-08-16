@@ -1,2 +1,5 @@
 # sgsShare
-A repo to share with others while learning to use GITHUB
+README:
+
+A repo to learn to use GITHUB
+And share information with other people.
